@@ -1,0 +1,21 @@
+{
+  "name": "precourse-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest assessment.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambdaSchool/Precourse-Assessment.git"
+  },
+  "author": "Lambda School",
+  "bugs": {
+    "url": "https://github.com/LambdaSchool/Precourse-Assessment/issues"
+  },
+  "homepage": "https://github.com/LambdaSchool/Precourse-Assessment#readme",
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
