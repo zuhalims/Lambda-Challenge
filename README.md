@@ -1,4 +1,4 @@
-# Precourse-Assessment
+# Precourse Assessment
 
 This assessment assumes prior knowledge and provides an opportunity for advanced students to bypass the precourse requirements.
 If the questions in here are too difficult then you can begin working through our precourse work which has [here](https://github.com/LambdaSchool/Precourse).
