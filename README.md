@@ -1,6 +1,13 @@
 # Precourse-Assessment
 
+This assessment is a prerequisite to attending Lambda School's full-time immersive program.  If you are able to successfully complete
+this assessment then you can bypass the pre-course work.  If the questions in here are too difficult then you can begin working
+through our precourse work which has recorded lecture content [here](https://github.com/LambdaSchool/Precourse).
+
 ## Prerequisites
+
+You will need to download Node in order to run the automated tests.  You can download Node [here](https://nodejs.org/en/download/).
+You will also need to have git installed on your computer in order to clone the repository.  You can download it [here](https://git-scm.com/downloads).
 
 In order to complete this assessment you will need to have a basic understanding of the following concepts:
 ```
@@ -20,29 +27,40 @@ Git/GitHub
   commit
   push
   pull request
+Command Line (Terminal on Mac or Command Prompt on Windows)
+  navigation (ls, dir, cd)
+  running git commands
 ```
 ## Instructions
 
-Instructions for taking this assessment:
-
-You will need to download Node in order to run the automated tests.  You can download Node (here)['www.google.com'].
 
 Fork this repo to your GitHub account.
 
-Clone the forked copy to your local computer:  `git clone <fork url>`
+Clone the forked copy to your local computer by using this command in the terminal/command prompt:  `git clone <forked repo url>`
 
-fork, clone, npm install
+Navigate into the cloned repo and install the node modules with this command: `npm i`
 
-complese the assessment in `assessment.js`.
+Run the automatic tests to make sure everything is working: `npm test`.  You should see a bunch of failing tests.
 
-run the tests with `npm test`
+Follow the instructions in `assessment.js`.  Run `npm test` to test your code.  As you complete the requirements the tests will start to pass. 
 
-When you get all of the tests to pass: 
+After getting all of the tests to pass you need to `add`, `commit`, and `push` your code with the following commands:
+```
+git add --all
+git commit -m "Completed assessment"
+git push
+```
+You will need to execute the above commands from within the directory that you cloned.
 
-add, commit, and push
+Once you have pushed your changes you need to submit a pull request back to the original repository.
 
-submit a pull request on GitHub
-
+We will verify that the tests pass and will send you an email to schedule an interview.
 
 ## Resources
+
+[Forking, cloning, and making a pull request](https://guides.github.com/activities/forking/)
+[JavaScript references and tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Basic Terminal Commands](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+[Basic Command Line Commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+[Free Intro to JavaScript Course](https://www.udacity.com/course/intro-to-javascript--ud803)
 
