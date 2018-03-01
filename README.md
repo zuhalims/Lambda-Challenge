@@ -6,6 +6,9 @@ If you are completely new to programming then you should begin by working throug
 At that link you will also have the opportunity to register for one of our live classes that covers this material in depth
 and you will also get access to Lambda School's TAs to assist you with preparing for the full-time immersive program.
 
+Pending a final interview, those that complete this challenge successfully will be invited to attend Lambda School without paying anything upfront; no loans, no debt, and no upfront tuition. 
+Pay nothing at all until you're making $50k+ as a software engineer.
+
 ## Prerequisites
 
 You will need to download Node in order to run the automated tests.  You can download Node [here](https://nodejs.org/en/download/).
