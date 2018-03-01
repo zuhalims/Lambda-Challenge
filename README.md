@@ -1,13 +1,15 @@
 # Precourse Assessment
 
-This assessment assumes prior knowledge and provides an opportunity for advanced students to bypass the precourse requirements.
-If the questions in here are too difficult then you can begin working through our precourse work which has [here](https://github.com/LambdaSchool/Precourse).
-If you are completely new to programming then you should begin by working through the precourse repo linked to above.
-At that link you will also have the opportunity to register for one of our live classes that covers this material in depth
-and you will also get access to Lambda School's TAs to assist you with preparing for the full-time immersive program.
+In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge.
 
-Pending a final interview, those that complete this challenge successfully will be invited to attend Lambda School without paying anything upfront; no loans, no debt, and no upfront tuition. 
+Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as a developer. We're willing to bet on you.
+
+Pending a final interview, those that complete the Lambda Challenge successfully may be invited to attend Lambda School without paying anything upfront; no loans, no debt, and no upfront tuition. 
 Pay nothing at all until you're making $50k+ as a software engineer.
+
+After the completion of the Lambda Challenge, we'll schedule you for a priority interview, and you can skip the pre-course work that we normally require.
+
+If the questions in here are too difficult then you can begin working through our regular precourse work which covers the fundamentals [here](https://github.com/LambdaSchool/Precourse).
 
 ## Prerequisites
 
