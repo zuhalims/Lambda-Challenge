@@ -1,4 +1,4 @@
-# Precourse Assessment
+# Lambda Challenge 
 
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge.
 
