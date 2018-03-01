@@ -1,8 +1,10 @@
 # Precourse-Assessment
 
-This assessment is a prerequisite to attending Lambda School's full-time immersive program.  If you are able to successfully complete
-this assessment then you can bypass the pre-course work.  If the questions in here are too difficult then you can begin working
-through our precourse work which has recorded lecture content [here](https://github.com/LambdaSchool/Precourse).
+This assessment assumes prior knowledge and provides an opportunity for advanced students to bypass the precourse requirements.
+If the questions in here are too difficult then you can begin working through our precourse work which has [here](https://github.com/LambdaSchool/Precourse).
+If you are completely new to programming then you should begin by working through the precourse repo linked to above.
+At that link you will also have the opportunity to register for one of our live classes that covers this material in depth
+and you will also get access to Lambda School's TAs to assist you with preparing for the full-time immersive program.
 
 ## Prerequisites
 
