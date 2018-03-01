@@ -67,8 +67,12 @@ We will verify that the tests pass and will send you an email to schedule an int
 ## Resources
 
 [Forking, cloning, and making a pull request](https://guides.github.com/activities/forking/)
+
 [JavaScript references and tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [Basic Terminal Commands](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+
 [Basic Command Line Commands](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
+
 [Free Intro to JavaScript Course](https://www.udacity.com/course/intro-to-javascript--ud803)
 
