@@ -27,6 +27,7 @@ JavaScript
   objects
   math operators
   equality and logical operators
+  
 Git/GitHub
   fork
   clone
@@ -34,35 +35,36 @@ Git/GitHub
   commit
   push
   pull request
+  
 Command Line (Terminal on Mac or Command Prompt on Windows)
   navigation (ls, dir, cd)
   running git commands
 ```
 ## Instructions
 
+You will need to install Node in order to run the automated tests.  You can [download Node here](https://nodejs.org/en/download/).
 
-Fork this repo to your GitHub account.
+1. Fork this repository to your GitHub account.
 
-Clone the forked copy to your local computer by using this command in the terminal/command prompt:  
-`git clone <forked repo url>`
+2. Clone the forked copy to your local computer: `git clone <fork url>`.
 
-Navigate into the cloned repo and install the node modules with this command: `npm i`
+3. From the command line, in your newly-cloned `Lambda-Challenge` directory, run `npm install`.
 
-Run the automatic tests to make sure everything is working: `npm test`.  You should see a bunch of failing tests.
+4. Complete the problems outlines in `assessment.js`.
 
-Follow the instructions in `assessment.js`.  Run `npm test` to test your code.  As you complete the requirements the tests will start to pass. 
+5. As you complete the problems, check your progress by running `npm test` from the command line.
 
-After getting all of the tests to pass you need to `add`, `commit`, and `push` your code with the following commands:
+6. When you are finished and all of the tests are passing, push them up to your personal `Lambda-Challenge` fork.
+
 ```
 git add --all
 git commit -m "Completed assessment"
 git push
 ```
-You will need to execute the above commands from within the directory that you cloned.
 
-Once you have pushed your changes you need to submit a pull request back to the original repository.
+7. Submit a pull request on GitHub to the [LambdaSchool/Lambda-Challenge](https://github.com/LambdaSchool/Lambda-Challenge) repository.
 
-We will verify that the tests pass and will send you an email to schedule an interview.
+8. After we verify that the tests pass, we will send you an email to schedule an interview.
 
 ## Resources
 
