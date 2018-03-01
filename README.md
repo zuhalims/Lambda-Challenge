@@ -43,7 +43,8 @@ Command Line (Terminal on Mac or Command Prompt on Windows)
 
 Fork this repo to your GitHub account.
 
-Clone the forked copy to your local computer by using this command in the terminal/command prompt:  `git clone <forked repo url>`
+Clone the forked copy to your local computer by using this command in the terminal/command prompt:  
+`git clone <forked repo url>`
 
 Navigate into the cloned repo and install the node modules with this command: `npm i`
 
