@@ -1,5 +1,7 @@
 # Lambda Challenge 
 
+If you have not yet filled out the form at [https://lambdaschool.com/challenge/](https://lambdaschool.com/challenge/) please do that before submitting your pull request.
+
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge.
 
 Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as a developer. We're willing to bet on you.
